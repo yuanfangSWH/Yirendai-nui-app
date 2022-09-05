@@ -1,0 +1,59 @@
+
+.content {
+	height: 1200rpx;
+}
+.success-identity {
+	text-align: center;
+	padding: 50px 30px;
+	padding-top: 150px;
+}
+.success-identity ._h2 {
+	font-weight: 400;
+	font-size: 6vw;
+	margin: 0;
+	text-align: center;
+}
+.success-identity ._span.newuse {
+	color: #c2c1c6;
+	font-size: 4vw;
+	padding: 15px 0 26px;
+	text-align: center;
+	display: block;
+}
+.success-identity ._span.more_wx {
+	color: #000;
+	font-size: 4vw;
+	padding: 25px 0 0px;
+	text-align: center;
+	display: block;
+}
+.success-identity ._span.bc_wx {
+	color: #c2c1c6;
+	font-size: 4vw;
+}
+.success-identity ._img.tu-ewm {
+	width: 34vw;
+	margin: 20px auto 5px;
+	display: block;
+	border: 1px dashed #ccc;
+}
+.success-identity ._img.tu-tub {
+	width: 34vw;
+	margin: 20px auto;
+	display: block;
+	border: 1px dashed #ccc;
+}
+.success-identity button.btn-success {
+	color: #fff;
+	background-color: #257bff;
+	width: 100%;
+	line-height: 12vw;
+	height: 12vw;
+	border-style: none;
+	border-radius: 100px;
+	font-size: 4.6vw;
+	margin-top: 36px;
+	outline: none;
+	margin-top: 60px;
+}
+

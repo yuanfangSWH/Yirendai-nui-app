@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"activity-li-box { margin-bottom: 0; }\n",],undefined,{path:"./pages/found/today/today.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/found/today/today.wxml') } }));

@@ -1,0 +1,1 @@
+<view bind:__l="__l"><block wx:if="{{According}}"><web-view webview-styles="{{webviewStyles}}" src="{{requestUrl}}"></web-view></block></view>

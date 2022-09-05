@@ -1,0 +1,26 @@
+
+.ts-logo-box {
+    padding: 15px;
+    background-color: #fff;
+    border-bottom: 1px solid #f1f4f8;
+}
+.ts-logo-box ._img {
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+.ts-logo-box ._p {
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 6px;
+}
+.ts-logo-box ._p ._span {
+    font-size: 12px;
+    color: #F23030;
+    display: inline-block;
+    vertical-align: top;
+    line-height: 20px;
+    padding-left: 6px;
+}
+

@@ -1,0 +1,61 @@
+
+.content {
+	height: 1200rpx;
+}
+.login-news {
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #fff;
+	overflow: auto;
+}
+.login-logo {
+	overflow: hidden;
+	padding: 20px 30px;
+}
+.login-logo text {
+	float: right;
+	font-size: 4vw;
+}
+.form-login {
+	margin: 0 30px;
+}
+.form-login ._h2 {
+	font-size: 8vw;
+	font-weight: 400;
+	margin: 0;
+}
+.form-login input {
+	display: block;
+	-webkit-box-sizing: content-box;
+	        box-sizing: content-box;
+	border-style: none;
+	line-height: 8vw;
+	height: 8vw;
+	padding: 3vw 0;
+	border-bottom: 1px solid #dcdcdc;
+	width: 100%;
+	font-size: 4.2vw;
+	margin-top: 15px;
+	outline: none;
+}
+.form-login ._span {
+	font-size: 12px;
+	color: #b1b1b1;
+	display: block;
+	padding-top: 10px;
+}
+.form-login button {
+	background-color: #257bff;
+	color: #fff;
+	width: 100%;
+	border-radius: 100px;
+	border-style: none;
+	line-height: 12vw;
+	height: 12vw;
+	font-size: 4vw;
+	margin-top: 30px;
+	outline: none;
+}
+

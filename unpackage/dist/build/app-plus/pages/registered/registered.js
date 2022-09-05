@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"wtqdimg { width: 100%; height: ",[0,1200],"; }\n",],undefined,{path:"./pages/registered/registered.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/registered/registered.wxml') } }));

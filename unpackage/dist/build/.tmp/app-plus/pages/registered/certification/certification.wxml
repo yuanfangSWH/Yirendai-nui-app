@@ -1,0 +1,1 @@
+<view class="content" bind:__l="__l"><view class="success-identity _div"><view class="_h2">您已通过实名认证</view><label class="newuse _span">现在您可以开始使用代呗客</label><image class="tu-tub _img" src="{{$root.m0}}" alt></image><button class="btn-success" type="button" data-event-opts="{{[['tap',[['Home']]]]}}" bindtap="__e">完成</button></view></view>

@@ -1,0 +1,56 @@
+
+.n_border {
+	border: none !important;
+	color: #b4b6bd !important;
+}
+.melph {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+.play {
+	top: 50%;
+	animation: play 0.5s;
+	-moz-animation: play 0.5s; /* Firefox */
+	-webkit-animation: play 0.5s; /* Safari 和 Chrome */
+	-o-animation: play 0.5s;
+}
+@keyframes play {
+from {
+		top: -200%;
+}
+to {
+		top: 50%;
+}
+}
+@-webkit-keyframes play /* Safari 和 Chrome */ {
+from {
+		top: -200%;
+}
+to {
+		top: 50%;
+}
+}
+.implicit {
+	top: -200%;
+	animation: implicit 1s;
+	-moz-animation: implicit 1s; /* Firefox */
+	-webkit-animation: implicit 1s; /* Safari 和 Chrome */
+	-o-animation: implicit 1s;
+}
+@keyframes implicit {
+from {
+		top: 50%;
+}
+to {
+		top: -200%;
+}
+}
+@-webkit-keyframes implicit /* Safari 和 Chrome */ {
+from {
+		top: 50%;
+}
+to {
+		top: -200%;
+}
+}
+

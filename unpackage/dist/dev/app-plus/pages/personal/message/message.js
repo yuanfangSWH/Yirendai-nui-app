@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"faqactives { transform: translateY(-50%); -webkit-transform: translateY(-50%); -ms-transform: translateY(-50%); -moz-transform: translateY(-50%); }\n",],undefined,{path:"./pages/personal/message/message.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/personal/message/message.wxml') } }));

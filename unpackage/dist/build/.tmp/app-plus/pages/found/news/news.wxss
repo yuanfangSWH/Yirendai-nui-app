@@ -1,0 +1,35 @@
+
+.article {
+	padding: 16px 16px 30px 16px;
+	background-color: #fff;
+	color: #2e2d2d;
+	line-height: 1.6rem;
+}
+.infosactoe {
+	margin: 16px 0;
+	font-size: 0px;
+	color: #a5b3c6;
+}
+.infosactoe .usm {
+	padding-right: 6px;
+	border-right: 1px solid #eee;
+	max-width: 100px;
+	overflow: hidden;
+	white-space: nowrap;
+	-o-text-overflow: ellipsis;
+	   text-overflow: ellipsis;
+}
+.infosactoe ._span {
+	font-size: 12px;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 12px;
+}
+.infosactoe .time {
+	padding-left: 6px;
+}
+.article ._h2 {
+	margin-bottom: 10px;
+	font-size: 1.5rem;
+}
+

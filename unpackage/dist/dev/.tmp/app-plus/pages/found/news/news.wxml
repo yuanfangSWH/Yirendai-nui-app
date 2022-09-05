@@ -1,0 +1,1 @@
+<view class="tonybj" bind:__l="__l"><view class="article"><view class="_h2">{{newsData.title}}</view><view class="infosactoe"><label class="usm _span">{{newsData.member_name}}</label><label class="time _span">{{newsData.line}}</label></view><view id="content" class="_p"><rich-text nodes="{{newsData.content}}"></rich-text></view></view></view>
