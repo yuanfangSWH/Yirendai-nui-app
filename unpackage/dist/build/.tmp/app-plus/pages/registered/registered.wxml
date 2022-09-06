@@ -1,1 +1,0 @@
-<view class="content" bind:__l="__l"><view class="qibt"><image class="wtqdimg _img" src="{{$root.m0}}" alt></image></view></view>

@@ -1,1 +1,0 @@
-<view bind:__l="__l"><view class="wrd-mony-box"><view class="bk_s"><label class="_span"><image src="{{$root.m0}}" class="_img"></image></label><view class="_p">恭喜您，添加银行卡成功</view></view><button data-event-opts="{{[['tap',[['complete']]]]}}" class="btn-sure-ts" bindtap="__e">完成</button></view></view>

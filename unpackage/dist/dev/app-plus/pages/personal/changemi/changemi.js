@@ -1,2 +1,0 @@
-setCssToHead([".",[1],"acspan { color: #cc0000; }\n",],undefined,{path:"./pages/personal/changemi/changemi.wxss"})();
-document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/personal/changemi/changemi.wxml') } }));
